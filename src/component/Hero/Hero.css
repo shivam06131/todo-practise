@@ -1,0 +1,50 @@
+.Hero_container {
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Hero_container_box {
+  background-color: aliceblue;
+  /* padding: 5px; */
+  display: flex;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50%;
+  width: 50vw;
+  margin-bottom: 2rem;
+}
+
+.Hero_container_box input {
+  height: 2rem;
+  font-size: 1.2rem;
+  margin: 0.8rem 5rem;
+  border: 2px solid black;
+  outline: none;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+.Hero_container-button_holder {
+  background-color: aquamarine;
+  width: 25vw;
+  height: 5rem;
+  border-radius: 10px;
+}
+
+.Hero_container-button_holder button {
+  height: 2rem;
+  width: 30%;
+  margin: 0.2rem;
+  border-radius: 15px;
+}
+.holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}

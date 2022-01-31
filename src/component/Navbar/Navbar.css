@@ -1,0 +1,13 @@
+.Navbar_container {
+    height: 3rem;
+    /* background-color: bisque; */
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Navbar_heading {
+    height: 100%;
+    color: green;
+    font-size: 3rem;
+}
