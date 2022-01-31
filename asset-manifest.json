@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-practise/static/css/main.f84e8b38.css",
+    "main.js": "/todo-practise/static/js/main.47a84bcc.js",
+    "index.html": "/todo-practise/index.html",
+    "main.f84e8b38.css.map": "/todo-practise/static/css/main.f84e8b38.css.map",
+    "main.47a84bcc.js.map": "/todo-practise/static/js/main.47a84bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f84e8b38.css",
+    "static/js/main.47a84bcc.js"
+  ]
+}
